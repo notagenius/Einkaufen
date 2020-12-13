@@ -1,5 +1,5 @@
 # Einkaufen
 for remote rhapsody hackathon
 
-# video concepthttps://youtu.be/fMeq4b41cmQ
+# video concept
 ![https://youtu.be/fMeq4b41cmQ](https://youtu.be/fMeq4b41cmQ)
