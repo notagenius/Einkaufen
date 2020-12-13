@@ -3,7 +3,7 @@ for remote rhapsody hackathon
 
 # TeamMember
 - [Weiling Xi](https://github.com/notagenius/)
-- [AlexanderMelde](https://github.com/AlexanderMelde)
+- [Alexander Melde](https://github.com/AlexanderMelde)
 
 # video concept
 [https://youtu.be/fMeq4b41cmQ](https://youtu.be/fMeq4b41cmQ)
